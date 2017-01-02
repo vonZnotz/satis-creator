@@ -6,6 +6,16 @@ Summary
 The satis creator reads satis configurations from the config directory and creates the composer repositories and puts
 them into the repositories directory.
 
+Installation
+------------
+Install dependencies
+
+    composer install
+
+
+Create a config file "config.cfg". Here is an example:
+
+    satishost=https://waytoyourhost.com
 
 Usage
 -----
