@@ -1,8 +1,6 @@
 {
   "require": {
-    "composer/composer": "1.0.*@dev",
     "composer/satis": "dev-master",
-    "symfony/event-dispatcher": "2.6.*@dev",
-    "psr/log": "1.0.0"
+    "symfony/lock": "^4.0"
   }
 }
